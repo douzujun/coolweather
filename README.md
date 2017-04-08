@@ -1,2 +1,3 @@
 # coolweather
-The android learning program
+The first android learning program
+
